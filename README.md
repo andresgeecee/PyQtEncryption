@@ -33,7 +33,7 @@ El proyecto permite al usuario cifrar y descifrar texto utilizando tres métodos
 
 ## Uso
 
-Para ejecutar la aplicación, simplemente ejecuta el archivo `main.py`:
+Para ejecutar la aplicación, simplemente ejecuta el archivo `cifrado-app.py`:
 
 ```bash
 python main.py
