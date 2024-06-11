@@ -21,7 +21,7 @@ El proyecto permite al usuario cifrar y descifrar texto utilizando tres métodos
 1. Clona el repositorio en tu máquina local:
 
     ```bash
-    git clone https://github.com/usuario/proyecto-encriptacion.git
+    git clone https://github.com/andresgeecee/PyQtEncryption.git
     cd proyecto-encriptacion
     ```
 
@@ -67,3 +67,7 @@ python main.py
 - `cifrado_sustitucion.py`: Módulo que contiene las funciones de cifrado y descifrado de sustitución.
 - `cifrado_cesar.py`: Módulo que contiene las funciones de cifrado y descifrado César.
 - `gui.py`: Módulo que contiene la lógica de la interfaz gráfica usando PyQt5.
+
+## 📁 Anexos
+
+![Texto alternativo](https://github.com/andresgeecee/PyQtEncryption/blob/master/img/proyecto-cifrados%20-%20Visual%20Studio%20Code.png?raw=true)
