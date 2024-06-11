@@ -36,7 +36,7 @@ El proyecto permite al usuario cifrar y descifrar texto utilizando tres métodos
 Para ejecutar la aplicación, simplemente ejecuta el archivo `cifrado-app.py`:
 
 ```bash
-python main.py
+python cifrado-app.py
 ```
 
 ## Funcionalidades
