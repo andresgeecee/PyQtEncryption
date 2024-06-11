@@ -22,7 +22,7 @@ El proyecto permite al usuario cifrar y descifrar texto utilizando tres métodos
 
     ```bash
     git clone https://github.com/andresgeecee/PyQtEncryption.git
-    cd proyecto-encriptacion
+    cd PyQtEncryption
     ```
 
 2. Instala los paquetes requeridos:
